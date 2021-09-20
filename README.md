@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nf-mach-1
 - 👀 I’m interested in Artificial Intelligence, IoT
-- 🌱 I’m currently learning Machine Learning using Python
+- 🌱 I’m currently learning Machine Learning using Python, and also working on Machine Learning Models for Graph Metrics Based Classification of Ontologies.
 - 💞️ I’m looking to collaborate on ...
 - 📫 email : nhlakafmachi@gmail.com
 
